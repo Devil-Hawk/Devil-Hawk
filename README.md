@@ -1,7 +1,7 @@
 # Github-profile
 
 # 💫 About Me:
-🛠 I built working on Building a model that predicts stock market swings during elections by analyzing 185M+ angry internet comments.<br>🤝 I’m looking to collaborate on Projects where we can make AI useful and less boring—bonus points if it involves NLP or detecting shady stuff online.<br>🙌 I’m looking for help with Making machine learning pipelines less fragile than my sleep schedule.<br>🌱 I’m currently learning How to get LLMs to behave and pipelines to run smoother than my morning coffee routine.<br>💬 Ask me about the time I tricked a model into spotting fake job postings better than most recruiters.<br>⚡ Fun fact I once got so deep into data cleaning, I started mentally removing “null values” from my social life.
+🛠 I built working on Building a model that predicts stock market swings during elections by analyzing 185M+ angry internet comments with 74% accuracy.<br>🤝 I’m looking to collaborate on Projects where we can make AI useful and less boring—bonus points if it involves NLP or detecting shady stuff online.<br>🙌 I’m looking for help with Making machine learning pipelines less fragile than my sleep schedule.<br>🌱 I’m currently learning How to get LLMs to behave and pipelines to run smoother than my morning coffee routine.<br>💬 Ask me about the time I tricked a model into spotting fake job postings better than most recruiters.<br>⚡ Fun fact I once got so deep into data cleaning, I started mentally removing “null values” from my social life.
 
 
 ## 🌐 Socials:
